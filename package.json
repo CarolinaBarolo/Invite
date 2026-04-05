@@ -1,0 +1,16 @@
+{
+  "name": "invitacion-mora",
+  "version": "1.0.0",
+  "description": "Página web de invitación a los 15 años de Mora",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["15 años", "invitación", "mora"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
